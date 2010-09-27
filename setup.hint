@@ -1,0 +1,4 @@
+category: KDE Net
+requires: libgcc1 libqoauth1 libQtCore4 libQtGui4 libQtNetwork4 libQtXml4 libstdc++6
+sdesc: "Qt4 Twitter/Identi.ca client"
+ldesc: "Qt4 client for Twitter, Identi.ca, and Aitu.kz microblogs"

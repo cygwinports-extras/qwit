@@ -1,0 +1,8 @@
+inherit qt4-qmake
+
+DESCRIPTION="Qt4 Twitter/Identi.ca client"
+HOMEPAGE="http://code.google.com/p/qwit/"
+SRC_URI="http://qwit.googlecode.com/files/${P/_/-}-src.tar.bz2"
+SRC_DIR="${P/_/-}-src"
+
+CYGQMAKE4_ARGS="PREFIX=/usr"
